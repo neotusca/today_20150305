@@ -1,1 +1,2 @@
-Git class
+Git class.
+It's test page.
